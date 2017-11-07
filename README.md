@@ -1,2 +1,2 @@
 # moi-ball
-9-ball? Nein, moi-ball!
+8-ball? Nein, moi-ball!
